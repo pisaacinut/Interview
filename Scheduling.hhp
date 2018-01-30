@@ -1,0 +1,36 @@
+[OPTIONS]
+Binary Index=No
+Compatibility=1.1 or later
+Compiled file=..\Scheduling.chm
+Contents file=Contents.hhc
+Default Window=TP
+Default topic=MTCSCH00.htm
+Display compile progress=No
+Full-text search=Yes
+Language=0x409 English (United States)
+Title=MyStudent Help
+
+[WINDOWS]
+TP=,"MyStudent.chm::\Contents.hhc",,"MTCSCH00.htm","MyStudent.chm::\index.htm",,,,,0x3520,,0x204c,,,,,,,,0
+
+
+[FILES]
+SHCELM.htm
+SHCJHS.htm
+SHCHS.htm
+MTCSCH00.htm
+
+
+
+[MERGE FILES]
+MyStudent.chm
+Assign.chm
+DT.chm
+GB.chm
+Locker.chm
+Nurse.chm
+Security.chm
+Testing.chm
+
+[INFOTYPES]
+
